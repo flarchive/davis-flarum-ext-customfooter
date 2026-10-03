@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of davis/flarum-ext-customfooter.** Not for installation: use [Packagist](https://packagist.org/packages/davis/flarum-ext-customfooter) or the [upstream repository](https://github.com/dav-is/flarum-ext-customfooter).
 
-**0** versions archived · Latest: [`v0.1.0-beta5`](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**5** versions archived · Latest: [`v0.1.0-beta5`](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta) |
+| `v0.1.0-beta2` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta2) |
+| `v0.1.0-beta3` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta3) |
+| `v0.1.0-beta4` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta4) |
+| `v0.1.0-beta5` | 2018-08-04 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-customfooter/tree/archive/v0.1.0-beta5) |
 
 Catalog entry: [packages/davis-flarum-ext-customfooter.json](https://github.com/flarchive/archive-index/blob/main/packages/davis-flarum-ext-customfooter.json)
 
